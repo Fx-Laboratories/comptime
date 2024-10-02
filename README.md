@@ -1,10 +1,10 @@
-# FXL-Metrology
+# FXL-Comptime
 
-The Function Labs metrology suite.
+The Function Labs compile-time logic suite.
 
 ## About
-The Function Labs metrology suite provides strong type safety for the use of
-units of measurement in source code.
+The Function Labs metrology suite provides utilities to perform operations on
+code entities at compile time.
 
 More to come.
 
