@@ -1,5 +1,10 @@
 cmake_minimum_required(VERSION 3.30)
 
+# Install this project by running:
+# mkdir build && cd build
+# cmake ..
+# sudo cmake --build . --config Release --target install -- -j $(nproc)
+
 project(fxl-comptime LANGUAGES CXX)
 set(PROJECT_VERSION 0.1)
 
